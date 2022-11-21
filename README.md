@@ -15,4 +15,11 @@ BACK END : PHP
 DATABASE : MYSQL
 
 
+## ER DIAGRAM
+
 ![Screenshot of ER-Diagram](/ER_Diagram.png)
+
+
+## RELATIONAL SCHEMA
+
+![Screenshot of Relational Schema](/Relational_Schema.png)
