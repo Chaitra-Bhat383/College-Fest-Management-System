@@ -1,16 +1,18 @@
 # College-Fest-Management-System
 
 
-ABSTRACT
+## ABSTRACT
 
 Fest Management is a Web Application that will be used to handle participant information, event information, organiser details, and create different conclusions. The system will include numerous modules such as a registration system and participation in various activities. The goal of this project is to automate the registration procedure during the fest and manage participation in various activities while preserving a full database and records.
 
 
-TOOLS USED
+## TOOLS USED
 
 FRONT END : HTML, CSS, JAVASCRIPT
+
 BACK END : PHP
+
 DATABASE : MYSQL
 
 
-
+![Screenshot of ER-Diagram](/ER_Diagram.png)
